@@ -4,7 +4,7 @@
 	而使用rdb_scanner只需要63秒
 
     生成的bigkey报告为CSV格式：
-![csvfile](https://github.com/GoDannyLai/rdb_scanner/raw/master/misc/img/bigkeys_csv.png)
+![csvfile](https://github.com/GoDannyLai/rdb_scanner/raw/master/misc/img/bigkeys.png)
 
     使用很简单，全部就6个参数：
         ./rdb_scanner.exe -b 1024 -o tmp/bigkeys_6380.csv -S -l 10 -t 3 tmp/dump6378.rdb
