@@ -1,0 +1,11 @@
+database,type,key,size_in_bytes,num_elements,largest_element,largest_element_size_in_bytes,expire_datetime
+0,list,L17,2859,953,1,3,
+0,list,L12,2664,888,1,3,
+0,list,L68,2661,887,1,3,
+0,list,L38,2610,870,1,3,
+0,list,L69,2583,861,1,3,
+0,list,L25,2406,802,1,3,
+0,list,L32,2403,801,1,3,
+0,list,L88,2340,780,1,3,
+0,list,L64,2169,723,1,3,
+0,list,L89,2169,723,1,3,
