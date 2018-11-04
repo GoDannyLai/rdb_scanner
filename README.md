@@ -9,4 +9,5 @@
     使用很简单，全部就6个参数：
         ./rdb_scanner.exe -b 1024 -o tmp/bigkeys_6380.csv -S -l 10 -t 3 tmp/dump6378.rdb
 		上述命令以3个线程分析dump6378.rdb文件中大于1024bytes的KEY， 以CSV格式把最大的10个key输出到bigkeys_6380.csv的文件中
-    
+# 联系
+	有任何建议或者bug， 请联系laijunshou@gmail.com   
